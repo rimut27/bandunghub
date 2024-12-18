@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BandungHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BandungHub.53pyxefj6n.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\1707672795150.jpg",
+      "PackagePath": "staticwebassets\\assets\\1707672795150.jpg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\5S PROCESS.jpg",
+      "PackagePath": "staticwebassets\\assets\\5S PROCESS.jpg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\8 WASTES DOWNTIME.jpg",
+      "PackagePath": "staticwebassets\\assets\\8 WASTES DOWNTIME.jpg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\CA-Logo_rgb-white.png",
+      "PackagePath": "staticwebassets\\assets\\CA-Logo_rgb-white.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\Collins Aerospace logo k 300.png",
+      "PackagePath": "staticwebassets\\assets\\Collins Aerospace logo k 300.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\Gaji-SWE-01.png",
+      "PackagePath": "staticwebassets\\assets\\Gaji-SWE-01.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\QUALITY CARDINAL RULE.jpg",
+      "PackagePath": "staticwebassets\\assets\\QUALITY CARDINAL RULE.jpg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\SAFESTART.jpg",
+      "PackagePath": "staticwebassets\\assets\\SAFESTART.jpg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\background.png",
+      "PackagePath": "staticwebassets\\assets\\background.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\download.png",
+      "PackagePath": "staticwebassets\\assets\\download.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\engineering.png",
+      "PackagePath": "staticwebassets\\assets\\engineering.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\favicon.gif",
+      "PackagePath": "staticwebassets\\assets\\favicon.gif"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\icons8-billing-machine-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons8-billing-machine-50.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\icons8-home-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons8-home-50.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\icons8-human-resources-68.png",
+      "PackagePath": "staticwebassets\\assets\\icons8-human-resources-68.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\icons8-quality-68.png",
+      "PackagePath": "staticwebassets\\assets\\icons8-quality-68.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\icons8-supply-chain-64.png",
+      "PackagePath": "staticwebassets\\assets\\icons8-supply-chain-64.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\assets\\smarter defense homepage.jpg",
+      "PackagePath": "staticwebassets\\assets\\smarter defense homepage.jpg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\collins_logo.svg",
+      "PackagePath": "staticwebassets\\uploads\\collins_logo.svg"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\download (1).png",
+      "PackagePath": "staticwebassets\\uploads\\download (1).png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\download (2).png",
+      "PackagePath": "staticwebassets\\uploads\\download (2).png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-constructor-68.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-constructor-68.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-documents-64.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-documents-64.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-erp-system-64.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-erp-system-64.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-finances-50.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-finances-50.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-go-64.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-go-64.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-manufacturing-48.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-manufacturing-48.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-supply-chain-50.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-supply-chain-50.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-training-64.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-training-64.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\icons8-x-50.png",
+      "PackagePath": "staticwebassets\\uploads\\icons8-x-50.png"
+    },
+    {
+      "Id": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\wwwroot\\uploads\\logo-sijuara-with-text.svg",
+      "PackagePath": "staticwebassets\\uploads\\logo-sijuara-with-text.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BandungHub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BandungHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BandungHub.props",
+      "PackagePath": "build\\BandungHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BandungHub.props",
+      "PackagePath": "buildMultiTargeting\\BandungHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BandungHub.props",
+      "PackagePath": "buildTransitive\\BandungHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

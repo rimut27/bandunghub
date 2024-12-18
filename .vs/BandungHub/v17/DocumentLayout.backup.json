@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my data\\ulik\\c#\\BandungHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\data\\bandunghubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\data\\bandunghubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\models\\departemen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\models\\departemen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|d:\\my data\\ulik\\c#\\bandunghub\\bandunghub\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985CA7F3-4212-451E-8E7B-C5D0B8FE4A09}|BandungHub\\BandungHub.csproj|solutionrelative:bandunghub\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BandungHub\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "BandungHub\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T03:07:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BandungHub\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Index.cshtml*",
+              "RelativeToolTip": "BandungHub\\Views\\Admin\\Index.cshtml*",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T01:59:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BandungHub\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "BandungHub\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:54:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BandungHub\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "BandungHub\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T09:32:14.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "BandungHub\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "BandungHub\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T09:31:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BandungHub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BandungHub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T09:27:15.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BandungHub\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BandungHub\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:02:57.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Program.cs",
+              "RelativeDocumentMoniker": "BandungHub\\Program.cs",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Program.cs",
+              "RelativeToolTip": "BandungHub\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:46:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departemen.cs",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Models\\Departemen.cs",
+              "RelativeDocumentMoniker": "BandungHub\\Models\\Departemen.cs",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Models\\Departemen.cs",
+              "RelativeToolTip": "BandungHub\\Models\\Departemen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:30:53.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BandungHubContext.cs",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Data\\BandungHubContext.cs",
+              "RelativeDocumentMoniker": "BandungHub\\Data\\BandungHubContext.cs",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Data\\BandungHubContext.cs",
+              "RelativeToolTip": "BandungHub\\Data\\BandungHubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:33:11.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BandungHub\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\my data\\ulik\\c#\\BandungHub\\BandungHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BandungHub\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:00:48.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
